@@ -9,10 +9,9 @@ I am a 2023 honors graduate from SDU transitioning from **IT Support & Systems E
 
 | Focus | Technologies |
 | :--- | :--- |
-| **Languages** | ![Python](https://img.shields.io) ![JavaScript](https://img.shields.io) ![SQL](https://img.shields.io) |
-| **DevOps** | ![Git](https://img.shields.io) ![Docker](https://img.shields.io) ![AWS](https://img.shields.io) |
-| **Frontend** | ![React](https://img.shields.io) ![TypeScript](https://img.shields.io) |
-
+| **Languages** | Python, JavaScript, SQL |
+| **DevOps** | Git, Docker, AWS |
+| **Frontend** | React, TypeScript |
 ---
 
 ### 🔭 Current Focus
