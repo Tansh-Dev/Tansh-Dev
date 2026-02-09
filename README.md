@@ -2,8 +2,7 @@
 👋 Hi, I'm Tangsholpan! +1<br>🏗️ Career Pivot:<br>Currently, I am an IT professional transitioning into DevOps and Cloud Engineering. I am passionate about automating workflows and managing scalable cloud infrastructures. <br>🛠️ Current Focus:<br>I'm building my expertise in CI/CD pipelines, Docker, Kubernetes, and Cloud Architecture. My goal is to streamline the development lifecycle through efficient operations.
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]
-(https://facebook.com/Tansholpan Abdipaiyz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tanngsholpan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Tangsholpan Abdipaiyz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tangsholpanabdipaiyz@gmail.com) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)] (https://facebook.com/Tansholpan Abdipaiyz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tanngsholpan) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Tangsholpan Abdipaiyz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tangsholpanabdipaiyz@gmail.com) 
 
 
 # 💻 Tech Stack:
